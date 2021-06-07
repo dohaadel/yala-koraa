@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"go_football.entity","l":"Adminstrator"},{"l":"All Classes","url":"allclasses-index.html"}]

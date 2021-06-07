@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"go_football.entity","c":"Adminstrator","l":"Adminstrator(String, String, String, String, String)","url":"%3Cinit%3E(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"}]
